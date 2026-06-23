@@ -1,5 +1,7 @@
 # Detector de Velocidad Vehicular con Raspberry Pi 5
 
+![Radar de velocidad](https://content.nationalgeographic.com.es/medio/2023/12/08/radar-de-trafico_923736f6_231208120616_1280x720.jpg)
+
 Sistema de monitoreo de velocidad vehicular desarrollado con Raspberry Pi 5, sensores ultrasónicos HC-SR04, Flask y SQLite. El sistema calcula la velocidad de un vehículo entre dos puntos de medición, registra infracciones, captura evidencia fotográfica mediante IP Webcam y muestra la información en un dashboard web en tiempo real.
 
 ---
